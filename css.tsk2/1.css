@@ -1,0 +1,19 @@
+
+        .box {
+            width: 200px;
+            height: 200px;
+            background-color: blue;
+            color: white;
+            font-size: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px;
+        }
+        .opaque-1 { opacity: 1; }
+        .opaque-75 { opacity: 0.75; }
+        .opaque-50 { opacity: 0.5; }
+        .opaque-25 { opacity: 0.25; }
+    
+
+        
